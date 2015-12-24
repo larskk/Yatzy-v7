@@ -16,9 +16,6 @@ namespace Yatzy
         private static int currentRound = 0;
         private static Button[] terninger = new Button[5];
 
-
-        
-
         public Form1()
         {
             InitializeComponent();
